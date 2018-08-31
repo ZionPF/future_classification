@@ -14,7 +14,7 @@ def load_future():
       dict_future({关键字：期货种类})
     """
 
-    data_path = '../data/future_list.txt'
+    data_path = '/data/jupyter/stock/data/future_list.txt'
 
     dict_future = {}
 
